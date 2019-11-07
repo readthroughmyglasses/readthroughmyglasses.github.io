@@ -22,7 +22,7 @@
 - [Data Visualization of Aadhar Data]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+{% include output_file.html %} 
 
 
 
