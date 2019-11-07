@@ -19,7 +19,7 @@
 ---
 
 ### Projects
-- [Data Visualization of Aadhar Data]
+- <i>Data Visualization of Aadhar Data</i>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
