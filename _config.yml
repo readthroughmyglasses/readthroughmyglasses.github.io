@@ -3,8 +3,10 @@ title: Pranati Shete # your name (or website title) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Hello, I m Pranati a final year BE student, highly motivated software engineer with strong learning ability!
   <br><br>
- I primarily use Python, but picking up a new framework or language isn't a problem.
-<br><br>
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
   <a href="https://www.linkedin.com/in/pranati-shete-9936b613b">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
