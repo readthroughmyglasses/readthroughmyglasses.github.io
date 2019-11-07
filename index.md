@@ -20,12 +20,8 @@
 
 ### Projects
 - <i>Data Visualization of Aadhar Data</i>
-<img src="images/1.jpeg?raw=true"/>
-<img src="images/2.jpeg?raw=true"/>
-<img src="images/3.jpeg?raw=true"/>
-<img src="images/4.jpeg?raw=true"/>
-<img src="images/5.jpeg?raw=true"/>
-<img src="images/6.jpeg?raw=true"/>
+<img src="images/output.jpg?raw=true"/>
+
 
 
 
