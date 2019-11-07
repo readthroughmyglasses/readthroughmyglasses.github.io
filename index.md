@@ -4,22 +4,26 @@
 
 ### Skills
 <ul>
-    <li>Python</li>
+    <li>Python
+    <ul>
+      <li>Pandas</li>
+      <li>Numpy</li>
+    </ul>
+    </li>
     <li>HTML5</li>
     <li>CSS</li>
     <li>PHP</li>
-    <li></li>
+    <li>MySql</li>
 </ul>
 
 ---
 
 ### Projects
+- [Data Visualization of Aadhar Data]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 
 ---
