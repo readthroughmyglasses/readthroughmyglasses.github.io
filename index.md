@@ -20,9 +20,12 @@
 - <i>Quora Duplicate Question Pair Detection</i> - <i>Present</i>
 <br><br>
 The proposed project will compare the machine learning and deep learning models with integration of statistical and visualization techniques from the area of natural language processing which can be used to automate the detection of duplicate questions, and result in better identification of intents for  n similar questions.
-<img src="images/output.jpg?raw=true"/>
-
+<img src="images/output1.jpg?raw=true"/>
+<br><br>
 - <i>Data Visualization of Aadhar Data</i> - <i> October 2019</i>
+<br><br>
+Utilized Aadhar data released on Kaggle, integrated and visualized data from PySpark data frames using Spark SQL
+
 <img src="images/output.jpg?raw=true"/>
 
 
