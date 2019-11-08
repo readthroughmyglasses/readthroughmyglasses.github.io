@@ -21,11 +21,15 @@
 <br><br>
 The proposed project will compare the machine learning and deep learning models with integration of statistical and visualization techniques from the area of natural language processing which can be used to automate the detection of duplicate questions, and result in better identification of intents for  n similar questions.
 <br><br>
+[Project Link](https://github.com/readthroughmyglasses/FYP_QUORA/blob/master/FYP_Quora.ipynb)
+<br><br>
 <img src="images/output1.jpg?raw=true"/>
 <br><br>
 - <i><strong>Data Visualization of Aadhar Data</strong></i> - <i> October 2019</i>
+
 <br><br>
-Utilized Aadhar data released on Kaggle, integrated and visualized data from PySpark data frames using Spark SQL
+Utilized Aadhar data released on Kaggle, integrated and visualized data from PySpark data frames using Spark SQL.
+[Project Link](https://github.com/readthroughmyglasses/Aadhar_Analysis/blob/master/BDA_PROJECT.ipynb)
 <br><br>
 <img src="images/output.jpg?raw=true"/>
 
