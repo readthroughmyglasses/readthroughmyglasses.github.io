@@ -29,6 +29,7 @@ The proposed project will compare the machine learning and deep learning models 
 
 <br><br>
 Utilized Aadhar data released on Kaggle, integrated and visualized data from PySpark data frames using Spark SQL.
+<br><br>
 [Project Link](https://github.com/readthroughmyglasses/Aadhar_Analysis/blob/master/BDA_PROJECT.ipynb)
 <br><br>
 <img src="images/output.jpg?raw=true"/>
